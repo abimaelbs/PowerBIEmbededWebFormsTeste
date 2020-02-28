@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29201.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PowerBIEmbededWebFormsTeste", "PowerBIEmbededWebFormsTeste\PowerBIEmbededWebFormsTeste.csproj", "{F82BFAB1-86D0-4D17-A5C0-0E6A62DD5C6E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F82BFAB1-86D0-4D17-A5C0-0E6A62DD5C6E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F82BFAB1-86D0-4D17-A5C0-0E6A62DD5C6E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F82BFAB1-86D0-4D17-A5C0-0E6A62DD5C6E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F82BFAB1-86D0-4D17-A5C0-0E6A62DD5C6E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4FF0BF1F-AE39-4DBF-8E20-63BC99674A76}
+	EndGlobalSection
+EndGlobal
